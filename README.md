@@ -7,7 +7,9 @@ imagination from children through repetitive movement and visual feedback. Engli
 module of the project is going to be developed in Unity and Vuforia software. 3D modules are to 
 be designed in Maya software or Blender3D.
 ## Students
-Saran Sakthivel, Mukil Selvaraj, Karanraj Velraj
+#####Saran Sakthivel
+#####Mukil Selvaraj
+#####Karanraj Velraj
 ## Software Requirements
 1. Unity 3D
 2. Maya 3D
