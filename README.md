@@ -9,7 +9,7 @@ be designed in Maya software or Blender3D.
 ## Students
 1. Saran Sakthivel
 2. Mukil Selvaraj
-3. Karanraj Velraj
+3. Karanraj Velusamy
 ## Software Requirements
 1. Unity 3D
 2. Maya 3D
