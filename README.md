@@ -11,7 +11,7 @@ be designed in Maya software or Blender3D.
 2. Mukil Selvaraj (3rd Year CSE)
 3. Karanraj Velusamy (3rd Year CSE)
 ## Mentor
-Mr.Chithrakumar Thangaraj 
+Mr.Chithrakumar Thangaraj (Assistant Professor CSE)
 ## Software Requirements
 1. Unity 3D
 2. Maya 3D
