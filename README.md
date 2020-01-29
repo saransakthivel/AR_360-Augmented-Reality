@@ -17,6 +17,4 @@ be designed in Maya software or Blender3D.
 ## Device Specification
 Android Os - min version(5)
 with secondary camera
-## Outcome
-
 ## Further Scope
