@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Vuforia_microscope" size="15.000000 8.437500" />
+    <ImageTarget name="Vuforia_Heart" size="15.000000 8.450705" />
+    <ImageTarget name="Vuforia_Skull" size="15.000000 9.475703" />
+  </Tracking>
+</QCARConfig>

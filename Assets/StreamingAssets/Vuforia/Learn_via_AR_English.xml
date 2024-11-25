@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Vuforia_Rhino" size="15.000000 8.437500" />
+    <ImageTarget name="Vuforia_Joker" size="15.000000 9.278351" />
+    <ImageTarget name="Vuforia_Insect" size="15.000000 8.437500" />
+    <ImageTarget name="Vuforia_horse" size="15.000000 9.375000" />
+    <ImageTarget name="Vuforia_Dragon" size="15.000000 11.250000" />
+    <ImageTarget name="Vuforia_Gorilla" size="15.000000 9.619565" />
+    <ImageTarget name="Vuforia_Bike" size="15.000000 10.500000" />
+    <ImageTarget name="Vuforia_Car" size="15.000000 8.437500" />
+    <ImageTarget name="Vuforia_Aeroplane" size="15.000000 8.452768" />
+    <ImageTarget name="Vuforia_elephants" size="15.000000 8.448979" />
+    <ImageTarget name="Vuforia_King" size="15.000000 8.433382" />
+    <ImageTarget name="Vuforia_DNA" size="15.000000 8.450705" />
+    <ImageTarget name="Vuforia_monster" size="15.000000 11.250000" />
+    <ImageTarget name="Vuforia_second" size="15.000000 15.000000" />
+  </Tracking>
+</QCARConfig>
